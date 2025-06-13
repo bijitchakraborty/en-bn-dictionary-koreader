@@ -55,7 +55,7 @@ This dictionary is released under the MIT License. You are free to use, modify, 
 
 ## Credits
 
-- Dictionary compiled and formatted by **Demoxing**
+- Dictionary compiled and formatted by **Bijit Chakraborty**
 - StarDict format and KOReader dictionary support by the open-source community
 
 ---
